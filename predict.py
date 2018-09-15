@@ -1,6 +1,6 @@
 #PyTorch lib
 #hhhhh,i have added it 
-import torch.nn as nn
+
 from torch.autograd import Variable
 import torch.utils.data as Data
 import torch.nn.functional as F
